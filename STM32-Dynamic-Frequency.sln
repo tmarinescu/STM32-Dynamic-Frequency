@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STM32-Dynamic-Frequency", "STM32-Dynamic-Frequency\STM32-Dynamic-Frequency.vcxproj", "{89423123-6D74-4144-8ED4-24AA20A74E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89423123-6D74-4144-8ED4-24AA20A74E9B}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{89423123-6D74-4144-8ED4-24AA20A74E9B}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{89423123-6D74-4144-8ED4-24AA20A74E9B}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{89423123-6D74-4144-8ED4-24AA20A74E9B}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F42FCE23-FD8A-4F9E-A561-75004775D70A}
+	EndGlobalSection
+EndGlobal
